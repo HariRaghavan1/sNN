@@ -81,7 +81,3 @@ snn-dvsgesture/
 
 Feel free to submit issues or pull requests to improve this project. Contributions are always welcome!
 
-## License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
-
