@@ -76,6 +76,7 @@ snn-dvsgesture/
 
 - **Accuracy**: The model achieved a 9.09% accuracy, predicting the same class for each epoch.
 - **Learning Experience**: While the model's performance was not optimal, this project was valuable for understanding the components and behavior of Spiking Neural Networks.
+- **Contributions**: Using the knowledge gained from this experience, I helped contribute to the documentation for this group SNN. This model had over an 85% accuracy: https://colab.research.google.com/drive/1UVIZmdfBQQ2eC5D-5Ysw8ZJEbizwF0Uh?usp=sharing
 
 ## Contributing
 
